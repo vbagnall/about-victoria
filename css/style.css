@@ -1,0 +1,129 @@
+body {
+	background-color: rgba(32,243,213, 0.6);
+}
+
+.top {
+	background-image: url("http://fullhdpictures.com/wp-content/uploads/2016/08/Blue-Sky-Wallpaper-for-Facebook.jpg");
+	background-repeat: no-repeat;
+	background-position: 50% 25%;
+	background-attachment: fixed;
+	width:100%;
+	height:300px;
+}
+
+nav {
+	width: 600px;
+	margin: auto;
+	text-align: center;
+	word-spacing: 3px;
+}
+
+nav li {
+	display: inline-block;
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 3px;
+	margin-top: 10px;
+	padding: 3px;
+	font-family: consolas;
+	background-color: #0e7482;
+}
+
+.bar {
+	width: 100%;
+	height: 40px;
+	background-color: #9bbbff;
+}
+
+.magician {
+	text-align: center;
+	padding-top: 100px;
+	font-family: 'Gidugu', sans-serif;
+	font-size: 150px;
+	letter-spacing: 10px;
+	color: #ABEBE2;
+	text-transform: uppercase;
+}
+
+.about {
+	color: #2f345c;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 32px;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+h2 {
+	color: #4935cb;
+	font-family: arial;
+	padding-top: 15px;
+}
+
+h3 {
+	color: #340923;
+	font-family: calibri;
+}
+
+.bio {
+	font-size: 14px;
+	font-family: 'Arimo', sans-serif;
+	padding-bottom: 10px;
+}
+
+.container {
+	width: 600px;
+	padding-bottom: 20px;
+	margin: auto;
+	background-color: #ABEBE2;
+	text-align: center;
+}
+
+.orpheus {
+	background-color: #0F7367;
+	margin-left: 20px;
+	height: 145px;
+	width: 300px;
+}
+
+.izanagi {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color:#fff;
+	letter-spacing: 1px;
+	padding-top: 5px;
+}
+
+.frost {
+	background-color: #0F7367;
+	height: 200px;
+	width: 565px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.flight {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color:#fff;
+	padding-top: 5px;
+}
+
+.shibuya {
+	background-color: #ccffcc;
+	height: ;
+	width: ;
+}
+
+.img1 {
+	width: 500px;
+}
+
+.img2 {
+	width: 250px;
+	padding-top: 25px;
+	margin-right: 15px;
+	float:right;
+	clear: left;
+
